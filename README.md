@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🔴+Building+defenses+against+zero-day+ransomware;🐍+Python+%7C+Ethical+Hacking+%7C+Malware+Analysis;🏅+SEC1+%7C+Jr+Pen+Tester+%7C+Google+Cybersecurity;👾+Creator+of+RANZER+—+Ransomware+Detection+Engine;🎯+Goal%3A+Professional+Penetration+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🔴+Building+defenses+against+zero-day+ransomware;🐍+Python+%7C+Ethical+Hacking+%7C+Malware+Analysis;🏅+SEC1+%7C+Jr+Pen+Tester+%7C+Google+Cybersecurity;👾+Creator+of+RANZER+—+Ransomware+Detection+Engine;🎯+Goal%3A+Professional+Penetration+Tester;👨🏻‍🎓+Victoria+University+Australia)](https://git.io/typing-svg)
 
 <br>
 
