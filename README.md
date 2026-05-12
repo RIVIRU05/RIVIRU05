@@ -53,21 +53,9 @@ class RiviruEren:
 
 <div align="center">
 
-| 🟢 Shannon Entropy Analysis | 🟡 Honey File Traps | 🟣 Process Behavior Tracking |
-|:---:|:---:|:---:|
-| Monitors entropy spikes in file write operations | Decoy files planted in strategic locations | Tracks rapid file modifications & unusual syscalls |
-| Catches encryption **as it happens** | Any process that touches them = **instant red flag** | Detects ransomware **behavioral patterns** |
-
-```
-              ↓                        ↓                        ↓
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          ALL 3 SIGNALS ALIGN  →  AUTO-TERMINATE PROCESS 🔴
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+![RANZER Engine](https://raw.githubusercontent.com/RIVIRU05/RIVIRU05/main/ranzer-engine.svg)
 
 </div>
-
-**Stack:** `Python` · `watchdog` · `psutil` · `Shannon Entropy` · Cross-platform (Linux + Windows)
 
 ---
 
@@ -114,12 +102,7 @@ class RiviruEren:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIVIRU05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
 
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/RIVIRU05/RIVIRU05/output/github-contribution-grid-snake-dark.svg)
-
 </div>
-
 ---
 
 <div align="center">
