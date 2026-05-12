@@ -1,106 +1,122 @@
 <div align="center">
 
-```
-██████╗ ██╗██╗   ██╗██╗██████╗ ██╗   ██╗    ███████╗██████╗ ███████╗███╗   ██╗
-██╔══██╗██║██║   ██║██║██╔══██╗██║   ██║    ██╔════╝██╔══██╗██╔════╝████╗  ██║
-██████╔╝██║██║   ██║██║██████╔╝██║   ██║    █████╗  ██████╔╝█████╗  ██╔██╗ ██║
-██╔══██╗██║╚██╗ ██╔╝██║██╔══██╗██║   ██║    ██╔══╝  ██╔══██╗██╔══╝  ██║╚██╗██║
-██║  ██║██║ ╚████╔╝ ██║██║  ██║╚██████╔╝    ███████╗██║  ██║███████╗██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=RIVIRU%20EREN&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacker%20%7C%20Malware%20Analyst&descAlignY=75&descSize=16&descColor=aaffaa" />
 
-### `whoami` — Cybersecurity Student | Ethical Hacker in Training | Builder of Things
+---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Threat+Hunter+%7C+Malware+Analyst;Python+Developer;Zero-day+thinker%2C+real-world+defender;Jr+Pen+Tester+%7C+SEC1+Certified;Building+RANZER+%F0%9F%94%A5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🔴+Building+defenses+against+zero-day+ransomware;🐍+Python+%7C+Ethical+Hacking+%7C+Malware+Analysis;🏅+SEC1+%7C+Jr+Pen+Tester+%7C+Google+Cybersecurity;👾+Creator+of+RANZER+—+Ransomware+Detection+Engine;🎯+Goal%3A+Professional+Penetration+Tester)](https://git.io/typing-svg)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riviru-eren)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RvREren)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rivirusandamuthu@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIVIRU05)
 
 </div>
 
 ---
 
-## `$ cat about_me.txt`
+## ⚡ `whoami`
 
 ```python
 class RiviruEren:
-    name       = "Riviru Eren"
-    role       = "Cybersecurity Student"
-    focus      = ["Ethical Hacking", "Malware Analysis", "Endpoint Security"]
-    tools      = ["Burp Suite", "Metasploit", "Wireshark", "Python"]
-    certs      = ["SOC 1 — TryHackMe"]
-    currently  = "Building defenses against zero-day ransomware"
-    goal       = "Professional Penetration Tester"
+    name        = "Riviru Eren Sandamuthu"
+    role        = "Cybersecurity Student"
+    focus       = ["Ethical Hacking", "Malware Analysis", "Endpoint Security", "GRC"]
+    tools       = ["Burp Suite", "Metasploit", "Wireshark", "Splunk", "Nmap"]
+    languages   = ["Python", "Bash"]
+    certs       = ["SEC1 (TryHackMe)", "Jr Pen Tester (TryHackMe)",
+                   "Google Cybersecurity Pro", "Cisco Ethical Hacker",
+                   "ISO/IEC 27001 Associate"]
+    currently   = "Building RANZER — a zero-day ransomware detection engine"
+    goal        = "Professional Penetration Tester"
+    fun_fact    = "I catch threats that haven't been seen yet 🔴"
 ```
 
 ---
 
-## `$ cat projects/RANZER.md`
+## 🔴 RANZER — My Flagship Project
 
 <div align="center">
 
-### 🔴 RANZER — Ransomware Analyzer & Endpoint Protection System
-
-> *"Most antivirus tools only catch what they've already seen. I built something that catches what they haven't."*
+> ### *"Most antivirus tools only catch what they've already seen.*
+> ### *I built something that catches what they haven't."*
 
 </div>
 
-**RANZER** is a real-time ransomware detection and automatic termination system I built from scratch in Python, targeting both **Linux** and **Windows** endpoints. The idea was simple: signature-based detection is dead against zero-day ransomware — so I built something that watches *behavior*, not fingerprints.
+**RANZER** is a real-time ransomware detection and automatic termination system built entirely in Python — targeting both **Linux** and **Windows** endpoints. Signature-based detection is dead against zero-day ransomware. RANZER watches **behavior**, not fingerprints.
 
-### How it works — 3 detection layers:
+<br>
 
-| Layer | Method | What it catches |
-|-------|--------|----------------|
-| 🔢 **Shannon Entropy Analysis** | Monitors entropy spikes in file write ops | Encryption activity in real-time |
-| 🍯 **Honey File Traps** | Decoy files in strategic locations | Any process that shouldn't be touching them |
-| 👁️ **Process Behavior Tracking** | Monitors rapid file modifications & unusual patterns | Ransomware behavioral signatures |
-
-> When all three signals align → **RANZER auto-terminates the process** before serious damage is done.
-
-**Built with:** `Python` · `watchdog` · `psutil` · `Shannon Entropy` · Cross-platform (Linux + Windows)
-
----
-
-## `$ ls skills/`
+### 🧠 3-Layer Detection Engine
 
 ```
-Languages/     → Python, Bash
-Security/      → Ethical Hacking, Vulnerability Assessment, Malware Analysis, GRC
-Tools/         → Burp Suite, Metasploit, Wireshark, Splunk, Nmap
-OS/            → Linux (Kali), Windows
+┌─────────────────────────────────────────────────────────────────┐
+│                      RANZER ENGINE v1.0                         │
+├──────────────────┬──────────────────────┬───────────────────────┤
+│ 🔢 SHANNON       │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR  │
+│ ENTROPY ANALYSIS │ TRAPS                │ TRACKING              │
+├──────────────────┼──────────────────────┼───────────────────────┤
+│ Detects spikes   │ Decoy files planted  │ Monitors rapid file   │
+│ in file entropy  │ in strategic dirs.   │ modification patterns │
+│ during active    │ Any touch = instant  │ and unusual syscall   │
+│ encryption ops   │ red flag 🚩          │ sequences             │
+└──────────────────┴──────────────────────┴───────────────────────┘
+          ALL 3 SIGNALS ALIGN → AUTO-TERMINATE PROCESS 🔴
 ```
 
----
-
-## `$ ls certs/ --sort=date`
-
-| Cert | Issuer | Year |
-|------|--------|------|
-| 🏅 SEC1 — Security Operations | TryHackMe | 2026 |
-| 🎯 Jr Penetration Tester | TryHackMe | 2025 |
-| 🔐 Google Cybersecurity Professional Certificate | Google / Coursera | 2025 |
-| 🛡️ Ethical Hacker | Cisco | 2025 |
-| 📋 ISO/IEC 27001 Information Security Associate™ | SkillFront | 2025 |
-| 🔍 Datacom Cyber Security Operations Job Simulation | Forage | 2026 |
+**Stack:** `Python` · `watchdog` · `psutil` · `Shannon Entropy` · Cross-platform (Linux + Windows)
 
 ---
 
-## `$ cat stats.json`
+## 🏅 Certifications
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RvREren&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RvREren&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+| 🏆 Certification | 🏢 Issuer | 📅 Year |
+|:---|:---|:---:|
+| **SEC1 — Security Operations** | TryHackMe | 2026 |
+| **Jr Penetration Tester** | TryHackMe | 2025 |
+| **Cybersecurity Professional Certificate** | Google / Coursera | 2025 |
+| **Ethical Hacker** | Cisco | 2025 |
+| **ISO/IEC 27001 Information Security Associate™** | SkillFront | 2025 |
+| **Cyber Security Operations Job Simulation** | Datacom / Forage | 2026 |
 
 </div>
 
 ---
 
-## `$ ping me`
+## 🛠️ Skills & Tools
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riviru-eren)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RvREren)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rivirusandamuthu@outlook.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 📊 `$ cat stats.json`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIVIRU05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&ring_color=00ff41&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIRU05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIVIRU05&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIVIRU05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -108,10 +124,6 @@ OS/            → Linux (Kali), Windows
 
 <div align="center">
 
-```
-[ SYSTEM STATUS: ONLINE ] [ THREAT LEVEL: HUNTING ] [ NEXT TARGET: ZERO-DAY ]
-```
-
-*"The best offense is understanding the offense."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer&text=%5B%20SYSTEM%3A%20ONLINE%20%5D%20%5B%20THREAT%20LEVEL%3A%20HUNTING%20%5D&fontSize=14&fontColor=00ff41&animation=twinkling" />
 
 </div>
