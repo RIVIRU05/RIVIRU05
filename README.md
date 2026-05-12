@@ -55,7 +55,7 @@ class RiviruEren:
 ┌─────────────────────────────────────────────────────────────────┐
 │                      RANZER ENGINE v1.0                         │
 ├──────────────────┬──────────────────────┬───────────────────────┤
-│ 🔢 SHANNON        │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR  │
+│ 🔢 SHANNON       │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR  │
 │ ENTROPY ANALYSIS │ TRAPS                │ TRACKING              │
 ├──────────────────┼──────────────────────┼───────────────────────┤
 │ Detects spikes   │ Decoy files planted  │ Monitors rapid file   │
@@ -87,7 +87,7 @@ class RiviruEren:
 
 ---
 
-## 🛠️ Skills & Tools
+
 
 <div align="center">
 
@@ -117,6 +117,10 @@ class RiviruEren:
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIVIRU05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
+
+<br>
+
+![Snake animation](https://raw.githubusercontent.com/RIVIRU05/RIVIRU05/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
