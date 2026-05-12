@@ -55,7 +55,7 @@ class RiviruEren:
 ┌─────────────────────────────────────────────────────────────────┐
 │                      RANZER ENGINE v1.0                         │
 ├──────────────────┬──────────────────────┬───────────────────────┤
-│ 🔢 SHANNON       │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR  │
+│ 🔢 SHANNON       │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR   │
 │ ENTROPY ANALYSIS │ TRAPS                │ TRACKING              │
 ├──────────────────┼──────────────────────┼───────────────────────┤
 │ Detects spikes   │ Decoy files planted  │ Monitors rapid file   │
@@ -107,8 +107,12 @@ class RiviruEren:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIVIRU05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIRU05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIVIRU05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIRU05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6&cache_seconds=1800" />
+
+<br>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RIVIRU05&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 <br>
 
