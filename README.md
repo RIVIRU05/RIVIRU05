@@ -103,10 +103,9 @@ class RiviruEren:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIVIRU05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
 
 </div>
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer&text=%5B%20SYSTEM%3A%20ONLINE%20%5D%20%5B%20THREAT%20LEVEL%3A%20HUNTING%20%5D&fontSize=14&fontColor=00ff41&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=170&section=footer&text=%5B%20SYSTEM%3A%20ONLINE%20%5D%20%5B%20THREAT%20LEVEL%3A%20HUNTING%20%5D&fontSize=14&fontColor=00ff41&animation=twinkling" />
 
 </div>
