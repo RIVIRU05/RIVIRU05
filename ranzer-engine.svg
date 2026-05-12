@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800">
+  <style>
+    rect.bg { fill: #0d1117; }
+    rect.header { fill: #003300; rx: 8; }
+    rect.card1 { fill: #002200; stroke: #00cc33; stroke-width: 1; }
+    rect.card2 { fill: #1a1100; stroke: #ccaa00; stroke-width: 1; }
+    rect.card3 { fill: #1a0022; stroke: #9966cc; stroke-width: 1; }
+    rect.terminate { fill: #220000; stroke: #cc3333; stroke-width: 1.5; }
+    text { font-family: 'Courier New', monospace; fill: #ccffcc; }
+    text.title { font-size: 13px; font-weight: bold; fill: #00ff41; }
+    text.label { font-size: 11px; fill: #aaddaa; }
+    text.header-text { font-size: 14px; font-weight: bold; fill: #00ff41; }
+    text.terminate-text { font-size: 13px; font-weight: bold; fill: #ff4444; }
+    text.stack { font-size: 10px; fill: #556655; }
+    line.arrow { stroke: #445544; stroke-width: 1.5; }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="280" fill="#0d1117" rx="12"/>
+
+  <!-- Header bar -->
+  <rect x="20" y="14" width="760" height="36" fill="#003300" rx="8"/>
+  <text class="header-text" x="400" y="37" text-anchor="middle">⚙ RANZER ENGINE v1.0</text>
+
+  <!-- Card 1: Shannon Entropy -->
+  <rect x="20" y="64" width="238" height="130" fill="#002200" stroke="#00cc33" stroke-width="1" rx="8"/>
+  <text class="title" x="139" y="88" text-anchor="middle">Shannon Entropy</text>
+  <text class="title" x="139" y="104" text-anchor="middle">Analysis</text>
+  <text class="label" x="139" y="124" text-anchor="middle">Monitors entropy spikes</text>
+  <text class="label" x="139" y="140" text-anchor="middle">in file write operations</text>
+  <text class="label" x="139" y="160" text-anchor="middle">Catches active encryption</text>
+  <text class="label" x="139" y="176" text-anchor="middle">in real time</text>
+
+  <!-- Card 2: Honey File Traps -->
+  <rect x="281" y="64" width="238" height="130" fill="#1a1100" stroke="#ccaa00" stroke-width="1" rx="8"/>
+  <text class="title" x="400" y="88" text-anchor="middle" fill="#ffcc00">Honey File Traps</text>
+  <text class="label" x="400" y="120" text-anchor="middle">Decoy files planted in</text>
+  <text class="label" x="400" y="136" text-anchor="middle">strategic locations</text>
+  <text class="label" x="400" y="160" text-anchor="middle">Any touch = instant</text>
+  <text class="label" x="400" y="176" text-anchor="middle">red flag 🚩</text>
+
+  <!-- Card 3: Process Behavior -->
+  <rect x="542" y="64" width="238" height="130" fill="#1a0022" stroke="#9966cc" stroke-width="1" rx="8"/>
+  <text class="title" x="661" y="88" text-anchor="middle" fill="#cc88ff">Process Behavior</text>
+  <text class="title" x="661" y="104" text-anchor="middle" fill="#cc88ff">Tracking</text>
+  <text class="label" x="661" y="124" text-anchor="middle">Rapid file modifications</text>
+  <text class="label" x="661" y="140" text-anchor="middle">&amp; unusual syscall sequences</text>
+  <text class="label" x="661" y="160" text-anchor="middle">Behavioral anomaly</text>
+  <text class="label" x="661" y="176" text-anchor="middle">detection</text>
+
+  <!-- Arrows down -->
+  <line x1="139" y1="194" x2="139" y2="214" stroke="#445544" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="400" y1="194" x2="400" y2="214" stroke="#445544" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="661" y1="194" x2="661" y2="214" stroke="#445544" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Converge lines -->
+  <line x1="139" y1="220" x2="400" y2="220" stroke="#334433" stroke-width="1"/>
+  <line x1="661" y1="220" x2="400" y2="220" stroke="#334433" stroke-width="1"/>
+  <line x1="400" y1="220" x2="400" y2="234" stroke="#445544" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Terminate box -->
+  <rect x="160" y="234" width="480" height="36" fill="#220000" stroke="#cc3333" stroke-width="1.5" rx="8"/>
+  <text class="terminate-text" x="400" y="257" text-anchor="middle">ALL 3 SIGNALS ALIGN → AUTO-TERMINATE PROCESS 🔴</text>
+
+  <!-- Stack line -->
+  <text class="stack" x="400" y="278" text-anchor="middle">Python · watchdog · psutil · Shannon Entropy · Linux + Windows</text>
+
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#445544" stroke-width="2" stroke-linecap="round"/>
+    </marker>
+  </defs>
+</svg>
