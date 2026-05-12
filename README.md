@@ -55,7 +55,7 @@ class RiviruEren:
 ┌─────────────────────────────────────────────────────────────────┐
 │                      RANZER ENGINE v1.0                         │
 ├──────────────────┬──────────────────────┬───────────────────────┤
-│ 🔢 SHANNON       │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR  │
+│ 🔢 SHANNON        │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR  │
 │ ENTROPY ANALYSIS │ TRAPS                │ TRACKING              │
 ├──────────────────┼──────────────────────┼───────────────────────┤
 │ Detects spikes   │ Decoy files planted  │ Monitors rapid file   │
