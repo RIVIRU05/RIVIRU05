@@ -51,20 +51,21 @@ class RiviruEren:
 
 ### 🧠 3-Layer Detection Engine
 
+<div align="center">
+
+| 🟢 Shannon Entropy Analysis | 🟡 Honey File Traps | 🟣 Process Behavior Tracking |
+|:---:|:---:|:---:|
+| Monitors entropy spikes in file write operations | Decoy files planted in strategic locations | Tracks rapid file modifications & unusual syscalls |
+| Catches encryption **as it happens** | Any process that touches them = **instant red flag** | Detects ransomware **behavioral patterns** |
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      RANZER ENGINE v1.0                         │
-├──────────────────┬──────────────────────┬───────────────────────┤
-│ 🔢 SHANNON       │ 🍯 HONEY FILE        │ 👁️  PROCESS BEHAVIOR   │
-│ ENTROPY ANALYSIS │ TRAPS                │ TRACKING              │
-├──────────────────┼──────────────────────┼───────────────────────┤
-│ Detects spikes   │ Decoy files planted  │ Monitors rapid file   │
-│ in file entropy  │ in strategic dirs.   │ modification patterns │
-│ during active    │ Any touch = instant  │ and unusual syscall   │
-│ encryption ops   │ red flag 🚩          │ sequences             │
-└──────────────────┴──────────────────────┴───────────────────────┘
-          ALL 3 SIGNALS ALIGN → AUTO-TERMINATE PROCESS 🔴
+              ↓                        ↓                        ↓
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          ALL 3 SIGNALS ALIGN  →  AUTO-TERMINATE PROCESS 🔴
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+</div>
 
 **Stack:** `Python` · `watchdog` · `psutil` · `Shannon Entropy` · Cross-platform (Linux + Windows)
 
@@ -107,20 +108,15 @@ class RiviruEren:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIVIRU05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIRU05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6&cache_seconds=1800" />
-
-<br>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RIVIRU05&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=RIVIRU05&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&sideNums=ccffcc&dates=888888&currStreakNum=00ff41" />
 
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIVIRU05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
+
+<br>
+
+![Snake animation](https://raw.githubusercontent.com/RIVIRU05/RIVIRU05/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
