@@ -107,12 +107,12 @@ class RiviruEren:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIVIRU05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&ring_color=00ff41&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIRU05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIVIRU05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIVIRU05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIVIRU05&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+<img src="https://streak-stats.demolab.com?user=RIVIRU05&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&sideNums=ccffcc&dates=888888&currStreakNum=00ff41" />
 
 <br>
 
